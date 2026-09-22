@@ -1,10 +1,8 @@
-# Praktikum 1 - HTML Dasar
-
 ## Identitas Mahasiswa
 
-**Nama:** M.Fahmi Abdul Basith
-**NIM:** 312510260
-**Kelas:** I251C
+**Nama:** M. Fahmi Abdul Basith  
+**NIM:** 312510260  
+**Kelas:** I251C  
 **Mata Kuliah:** Pemrograman Web
 
 ---
