@@ -16,5 +16,5 @@ Pemrograman Web
 Pada latihan pertama saya membuat dua paragraf menggunakan tag `<p>`.
 
 ### Screenshot
-![Latihan 1](C:\xampp\PEMOGRAMAN WEB\Lab1Web\screenshot)
+![Latihan 1](Screenshotvscodelatihan1.png)
 
