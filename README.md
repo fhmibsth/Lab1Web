@@ -2,9 +2,9 @@
 
 ## Identitas Mahasiswa
 
-**Nama:** Nama Mahasiswa  
-**NIM:** NIM Mahasiswa  
-**Kelas:** Kelas  
+**Nama:** M.Fahmi Abdul Basith
+**NIM:** 312510260
+**Kelas:** I251C
 **Mata Kuliah:** Pemrograman Web
 
 ---
