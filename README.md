@@ -8,3 +8,13 @@ M.Fahmi Abdul Basith
 
 ## Mata Kuliah
 Pemrograman Web
+
+---
+
+## Latihan 1 - Membuat Paragraf
+
+Pada latihan pertama saya membuat dua paragraf menggunakan tag `<p>`.
+
+### Screenshot
+![Latihan 1](C:\xampp\PEMOGRAMAN WEB\Lab1Web\screenshot)
+
