@@ -21,7 +21,7 @@ Struktur dasar HTML5 digunakan sebagai kerangka awal dalam pembuatan sebuah hala
 
 ### Screenshot Kode di VS Code
 
-![Latihan 1 VS Code](latihan1vscode.png)
+![Latihan 1 VS Code](images/latihan1vscode.png)
 
 ---
 
