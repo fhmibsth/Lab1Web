@@ -1,10 +1,8 @@
-# Praktikum 1 - HTML Dasar
-
 ## Identitas Mahasiswa
 
-**Nama:** Nama Mahasiswa  
-**NIM:** NIM Mahasiswa  
-**Kelas:** Kelas  
+**Nama:** M. Fahmi Abdul Basith  
+**NIM:** 312510260  
+**Kelas:** I251C  
 **Mata Kuliah:** Pemrograman Web
 
 ---
@@ -23,7 +21,7 @@ Struktur dasar HTML5 digunakan sebagai kerangka awal dalam pembuatan sebuah hala
 
 ### Screenshot Kode di VS Code
 
-![Latihan 1 VS Code](latihan1vscode.png)
+![Latihan 1 VS Code](images/latihan1vscode.png)
 
 ---
 
@@ -35,11 +33,11 @@ Tag `<p>` digunakan untuk membuat paragraf pada halaman HTML.
 
 ### Screenshot Kode di VS Code
 
-![Latihan 2 VS Code](latihan2vscode.png)
+![Latihan 2 VS Code](images/latihan2vscode.png)
 
 ### Screenshot Hasil di Browser
 
-![Latihan 2 Browser](latihan2browser.png)
+![Latihan 2 Browser](images/latihan2browser.png)
 
 ---
 
@@ -51,11 +49,11 @@ Tag `<h1>` digunakan sebagai judul utama, sedangkan `<h2>` digunakan sebagai sub
 
 ### Screenshot Kode di VS Code
 
-![Latihan 3 VS Code](latihan3vscode.png)
+![Latihan 3 VS Code](images/latihan3vscode.png)
 
 ### Screenshot Hasil di Browser
 
-![Latihan 3 Browser](latihan3browser.png)
+![Latihan 3 Browser](images/latihan3browser.png)
 
 ---
 
@@ -67,19 +65,19 @@ Saya juga mencoba beberapa tag pemformatan lainnya seperti `<em>`, `<mark>`, `<s
 
 ### Screenshot Kode di VS Code
 
-![Latihan 4 VS Code](latihan4vscode.png)
+![Latihan 4 VS Code](images/latihan4vscode.png)
 
 ### Screenshot Hasil di Browser
 
-![Latihan 4 Browser](latihan4browser.png)
+![Latihan 4 Browser](images/latihan4browser.png)
 
 ### Screenshot Uji Coba di Browser
 
-![Latihan 4 Uji Coba Browser](latihan4ujicobabrowser.png)
+![Latihan 4 Uji Coba Browser](images/latihan4ujicobabrowser.png)
 
 ### Screenshot Uji Coba
 
-![Latihan 4 Uji Coba](latihan4ujicoba.png)
+![Latihan 4 Uji Coba](images/latihan4ujicoba.png)
 
 ---
 
@@ -93,11 +91,11 @@ Saya juga menggunakan atribut `alt` dan `title` pada gambar.
 
 ### Screenshot Kode di VS Code
 
-![Latihan 5 VS Code](latihan5vscode.png)
+![Latihan 5 VS Code](images/latihan5vscode.png)
 
 ### Screenshot Hasil di Browser
 
-![Latihan 5 Browser](latihan5browser.png)
+![Latihan 5 Browser](images/latihan5browser.png)
 
 ---
 
@@ -109,11 +107,11 @@ Pengaturan ukuran digunakan agar gambar dapat ditampilkan sesuai dengan ukuran y
 
 ### Screenshot Kode di VS Code
 
-![Latihan 6 VS Code](latihan6vscode.png)
+![Latihan 6 VS Code](images/latihan6vscode.png)
 
 ### Screenshot Hasil di Browser
 
-![Latihan 6 Browser](latihan6browser.png)
+![Latihan 6 Browser](images/latihan6browser.png)
 
 ---
 
@@ -127,15 +125,15 @@ Saya juga membuat file `halaman2.html` sebagai halaman tujuan hyperlink internal
 
 ### Screenshot Kode di VS Code
 
-![Latihan 7 VS Code](latihan7vscode.png)
+![Latihan 7 VS Code](images/latihan7vscode.png)
 
 ### Screenshot Hasil di Browser
 
-![Latihan 7 Browser](latihan7browser.png)
+![Latihan 7 Browser](images/latihan7browser.png)
 
 ### Screenshot Halaman 2
 
-![Latihan 7 Halaman 2](latihan7hal2.png)
+![Latihan 7 Halaman 2](images/latihan7hal2.png)
 
 ---
 
@@ -150,11 +148,11 @@ Unordered list digunakan untuk membuat daftar tanpa nomor, sedangkan ordered lis
 
 ### Screenshot Kode di VS Code
 
-![Latihan 8 VS Code](latihan8vscode.png)
+![Latihan 8 VS Code](images/latihan8vscode.png)
 
 ### Screenshot Hasil di Browser
 
-![Latihan 8 Browser](latihan8browser.png)
+![Latihan 8 Browser](images/latihan8browser.png)
 
 ---
 
@@ -168,7 +166,7 @@ Komentar digunakan untuk memberikan penanda atau informasi tambahan pada kode HT
 
 ### Screenshot Kode di VS Code
 
-![Latihan 9 VS Code](latihan9vscode.png)
+![Latihan 9 VS Code](images/latihan9vscode.png)
 
 ---
 
@@ -189,11 +187,11 @@ Halaman tersebut terdiri dari:
 
 ### Screenshot Kode di VS Code
 
-![Latihan 10 VS Code](latihan10vscode.png)
+![Latihan 10 VS Code](images/latihan10vscode.png)
 
 ### Screenshot Hasil di Browser
 
-![Latihan 10 Browser](latihan10browser.png)
+![Latihan 10 Browser](images/latihan10browser.png)
 
 ---
 
