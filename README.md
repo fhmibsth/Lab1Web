@@ -206,3 +206,44 @@ Lab1Web/
 ├── index.html
 ├── halaman2.html
 └── README.md
+
+```
+
+# Jawab Pertanyaan Berikut
+
+1. Apa fungsi deklarasi `<!DOCTYPE html>` pada dokumen HTML?
+2. Apa perbedaan antara tag, elemen, dan atribut pada HTML?
+3. Apa perbedaan `<p>` dengan `<br>`? Jelaskan penggunaannya.
+4. Apa fungsi atribut `href` pada tag `<a>`?
+5. Apa perbedaan hyperlink ke halaman internal dengan hyperlink ke website eksternal?
+6. Apa fungsi atribut `src` dan `alt` pada tag `<img>`?
+7. Apa perbedaan penggunaan `<ul>` dan `<ol>`?
+8. Apa yang terjadi jika path gambar pada atribut `src` salah?
+9. Mengapa struktur heading h1 sampai h6 perlu digunakan secara terstruktur?
+10. Apa fungsi komentar `<!-- ... -->` dalam kode HTML?
+
+---
+
+# Jawaban
+
+1. Menyatakan dokumen menggunakan standar HTML.
+
+2. Tag adalah penanda pembuka dan penutup sebuah elemen HTML.  
+   Elemen adalah komponen yang menyusun dokumen HTML dan dapat terdiri dari tag pembuka, isi, dan tag penutup.  
+   Atribut memberikan informasi tambahan kepada sebuah elemen dan biasanya ditulis pada tag pembuka.
+
+3. `<p>` digunakan untuk membuat paragraf, sedangkan `<br>` digunakan untuk membuat perpindahan baris.
+
+4. `href` digunakan untuk menentukan alamat atau URL yang menjadi tujuan hyperlink.
+
+5. Hyperlink internal menghubungkan halaman dalam website atau project yang sama, sedangkan hyperlink eksternal menghubungkan ke website lain.
+
+6. `src` digunakan untuk menentukan lokasi gambar yang ditampilkan, sedangkan `alt` memberikan deskripsi pada gambar.
+
+7. `<ul>` digunakan untuk membuat daftar yang tidak berurutan, sedangkan `<ol>` digunakan untuk membuat daftar yang berurutan.
+
+8. Gambar tidak akan muncul di browser saat program dijalankan karena data atau lokasi gambar tidak ditemukan.
+
+9. Penggunaan heading secara terstruktur membantu menyusun hierarki judul dan subjudul dalam dokumen HTML.
+
+10. Komentar digunakan untuk memberikan informasi atau penanda pada kode. Komentar tidak ditampilkan oleh browser.
